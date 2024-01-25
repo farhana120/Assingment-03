@@ -1,0 +1,67 @@
+#home{
+    color: #131318;
+
+font-size: 36px;
+
+font-weight: 800;
+line-height: normal;
+}
+.club{
+    color: #131318;
+text-align: center;
+font-family: Manrope;
+font-size: 36px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.homee{
+
+    color: var(--Dark-02, #424247);
+text-align: center;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+
+}
+p{
+    color: rgba(19, 19, 24, 0.60);
+text-align: center;
+font-family: Manrope;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 162.5% */
+}
+.cul{
+    border-radius: 16px;
+background: rgba(188, 237, 109, 0.10);
+}
+.ro{
+    border-radius: 16px;
+background: rgba(253, 221, 95, 0.10);
+}
+
+.or{
+    border-radius: 16px;
+background: rgba(98, 156, 243, 0.10);
+
+
+
+
+}
+#media{
+    border-radius: 12px;
+background: rgba(19, 19, 24, 0.03);
+width: 1170px;
+height: 150px;
+flex-shrink: 0;
+margin: 110px 135px 100px 135px;
+
+}
+
+
+
